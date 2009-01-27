@@ -7,6 +7,6 @@ I love Chinese Calligraphy. With technology advances, I am trying to evolve the 
 = Details =
 
   * First stage is trying to be able to track where the brush is.
-  * Second stage is trying to be able to simulate the effect when *brush* (well, your mouse actually) __touch__ the *paper*.
+  * Second stage is trying to be able to simulate the effect when *brush* (well, your mouse actually) _touch_ the *paper*.
 
 Any idea and contribution to the project will be highly welcome.
