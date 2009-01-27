@@ -1,4 +1,4 @@
-#summary Chinese Brush Simulation Project
+Chinese Brush Simulation Project Wiki
 
 = Introduction =
 
