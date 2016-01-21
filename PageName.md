@@ -1,0 +1,12 @@
+Chinese Brush Simulation Project Wiki
+
+# Introduction #
+
+I love Chinese Calligraphy. With technology advances, I am trying to evolve the tradition to take advantage of new technology.
+
+# Details #
+
+  * First stage is trying to be able to track where the brush is.
+  * Second stage is trying to be able to simulate the effect when **brush** (well, your mouse actually) _touch_ the **paper**.
+
+Any idea and contribution to the project will be highly welcome.

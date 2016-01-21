@@ -1,0 +1,1 @@
+To be able to simulate Chinese Brush movement for Chinese Calligraphy, and painting maybe.
